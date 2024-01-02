@@ -7,12 +7,12 @@ global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
 global.email = 'sam@secktor.live'
-global.github = 'https://github.com/saviya55/Saviya-Md'
+global.github = 'https://github.com/sadasofc/SADAS-MD-BOT'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '2347039570336,923466319114'
 global.devs = '2347039570336';
-global.website = 'https://github.com/saviya55/Saviya-Md' //wa.me/+91000000000000
+global.website = 'https://github.com/sadasofc/SADAS-MD-BOT' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/49ceffdee14dac505f424.jpg'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? 'SADAS-MD-BOT' : process.env.BOT_NAME,
