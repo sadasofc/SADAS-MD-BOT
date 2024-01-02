@@ -14,7 +14,7 @@
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
 
 <p align="left">
-<a href="https://github.com/saviya55/Saviya-Md/fork"><img align="center" src="https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white" alt="Fork and deploy" height="35" width="155" /></a>
+<a href="https://github.com/sadasofc/SADAS-MD-BOT/fork"><img align="center" src="https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white" alt="Fork and deploy" height="35" width="155" /></a>
 
 
 ## QR SCAN 
@@ -24,7 +24,7 @@
 
 ## DEPLOY IN HEROKU
 
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/saviya55/Saviya-Md)
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/sadasofc/SADAS-MD-BOT)
 
 
 ## DEPLOY IN REPLIT
@@ -59,9 +59,9 @@ Copy the JSON down and paste in replit then fill the vars
  <br>
  <br/>
  # 💌SPECIAL THANK💌
- @Vajira md
+ @SAVIYA MD
 
-## 😉THANKS FOR USING SAVIYA-MD WHATSAPP BOT😘
+## 😉THANKS FOR USING SADAS MD WHATSAPP BOT😘
 
 
 
