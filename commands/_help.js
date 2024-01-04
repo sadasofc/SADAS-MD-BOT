@@ -24,7 +24,7 @@ Secktor.cmd({
 ┏━━━━━•❃〘 ` + fancytext(Config.ownername.split('SAVIYA-MD')[0], 58) + ` 〙❃•━━━━━┓`
             str += `
 ┃ ⛥┏━━━━━•❃°ꜱᴀᴅᴀꜱ ᴍᴅ°•━━━━━•❃°•°•      
-•͙͙✧⃝•͙ User: ${citel.pushName}
+•͙͙˥☬ User: ${citel.pushName}
 •͙͙✧⃝•͙ Theme: ${tlang().title}
 •͙͙✧⃝•͙│ Prefix: ${prefix}
 •͙͙✧⃝•͙ Owner: ${Config.ownername}
