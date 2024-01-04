@@ -32,7 +32,7 @@
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/cf19902f6b57a00fcd56b.jpg"
+     "value": "https://telegra.ph/file/694f65d3c697e7b3d1f23.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -54,7 +54,7 @@
      "value": "true"
     },
     "SUDO": {
-    "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg:94722617699",
+    "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg:94#########",
      "required"  :false
     },
       "READ_MESSAGE": {
@@ -88,7 +88,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are DARK-MD and many more..",
-     "value": "SAVIYA"
+     "value": "Sadas"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -101,7 +101,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "Vajira;Saviya",
+     "value": "Sadas",
      "required": false 
   },
   "heroku": {
