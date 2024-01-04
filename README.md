@@ -2,11 +2,11 @@
 
 <p align="center"> 
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=Saviya+Md+Wa+.+Bot;Created+By+SAVIYA" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=Sadas+Md+Wa+.+Bot;Created+By+MR SADAS" alt="Typing SVG" /></a>
 </p> 
 
 <p align="center"> 
-<img src="https://telegra.ph/file/a52da310faef73980a2fe.jpg" width="390" height="300"/>
+<img src="https://telegra.ph/file/694f65d3c697e7b3d1f23.jpg" width="390" height="300"/>
 </p>
 
 
@@ -43,7 +43,7 @@ Copy the JSON down and paste in replit then fill the vars
   "OWNER_NAME": "your name",
   "OPENAI_API_KEY": "null",
   "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
-  "PACK_INFO": "Vajira;Saviya",
+  "PACK_INFO": "Sadas",
   "PREFIX": ".",
   "AUTO_READ_STATUS": "true",
   "AUTO_REACTION": "true",
@@ -55,13 +55,13 @@ Copy the JSON down and paste in replit then fill the vars
 ```
 
 
- ⪤ BUG TESTER NOTIYA REAL💕
+
  <br>
  <br/>
  # 💌SPECIAL THANK💌
  @SAVIYA MD
 
-## 😉THANKS FOR USING SADAS MD WHATSAPP BOT😘
+## 🕊️❤️THANKS FOR USING SADAS MD WHATSAPP BOT❤️
 
 
 
